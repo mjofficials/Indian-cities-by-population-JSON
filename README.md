@@ -4,6 +4,7 @@ A JSON file containing 317 Indian cities and their respective states based on th
 The entire file is based on the Census of India, 2011, conducted by the Office of the Registrar General and Census Commissioner, under the Ministry of Home Affairs (India), Government of India.
 
 Here is a small snippet :)
+```
 
 [
     {
